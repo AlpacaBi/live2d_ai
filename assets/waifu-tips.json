@@ -1,0 +1,268 @@
+{
+    "mouseover": [
+        {
+            "selector": ".container a[href^='http']",
+            "text": ["欢迎来到 <span style=\"color:#0099cc;\">{text}</span> "]
+        },
+        {
+            "selector": ".artt",
+            "text": ["点击这里就可阅读 <span style=\"color:#0099cc;\">{text}</span> "]
+        },
+        {
+            "selector": "#fui-home",
+            "text": ["点击这里前往首页哦"]
+        },
+        {
+            "selector": "#fui-article",
+            "text": ["点击这里可以看到所有文章哦"]
+        },
+        {
+            "selector": "#fui-messageborad",
+            "text": ["点击这里看留言哦，希望你也写点留言吧"]
+        },
+        {
+            "selector": "#fui-backstage",
+            "text": ["点这里就能进入后台了，不过只有毕国康可以进，游客止步！！！"]
+        },
+        {
+            "selector": "#creact",
+            "text": ["facebook造的轮子，本博客前端就是基于react开发"]
+        },
+        {
+            "selector": "#creactredux",
+            "text": ["redux是个一个数据流结构，他把所有的state整合到一个唯一的store中"]
+        },
+        {
+            "selector": "#creactbootstrap",
+            "text": ["用react实现的bootstrap ui组件，本博客的ui就是基于react-bootstrap"]
+        },
+        {
+            "selector": "#creactrouter",
+            "text": ["react的路由套件，有了它你才可以在本站无需刷新网页就能浏览各种内容"]
+        },
+        {
+            "selector": "#cexpress",
+            "text": ["Express 是一个基于 Node.js 平台的极简、性能强大、灵活的 web 应用开发框架，本网站的后台就是基于Express"]
+        },
+        {
+            "selector": "#cbraft",
+            "text": ["一个国内大佬写的富文本框，主人就是用这个来写博客的，欢迎入群725634541"]
+        },
+        {
+            "selector": "#money",
+            "text": ["各位大佬施舍个鼠粮钱吧，主人家还有一只仓鼠要养"]
+        },
+        {
+            "selector": "#bgkmessage",
+            "text": ["如果想联系毕国康，点这里"]
+        },
+        {
+            "selector": "#fui-github",
+            "text": ["可以给主人的github点个follow么，star个项目也行，谢谢哦"]
+        },
+        {
+            "selector": "#fui-mailbox",
+            "text": ["主人的联系邮箱，有正经事可以发邮件"]
+        },
+        {
+            "selector": "#fui-weixin",
+            "text": ["大佬们可以加主人的微信一起聊聊技术"]
+        },
+        {
+            "selector": "#newArt",
+            "text": ["这里你可以看到最新的10篇文章"]
+        },
+        {
+            "selector": "#beian",
+            "text": ["点击这里可以跳转到工信部的官网，没办法被逼的不这么做网站上线不了"]
+        },
+        {
+            "selector": "#upyun",
+            "text": ["点击这里可以进入又拍云官网，没办法，为了每月免费的15G的cdn流量。加入又拍云联盟即可免费获取每月 10GB 存储空间 + 15GB 流量"]
+        },
+        {
+            "selector": "#nonono",
+            "text": ["tell the little hamster he's not going to college.Just look him right in the eye,and say,Not today, buddy."]
+        },
+        {
+            "selector": "#aall",
+            "text": ["点击这里就可以一次性把所有文章显示出来"]
+        },
+        {
+            "selector": "#ajavascript",
+            "text": ["点这里主要着重于JavaScript和es6的研究，毕竟再酷炫的轮子也是基于js原生"]
+        },
+        {
+            "selector": "#ajava",
+            "text": ["点这里可以看和java相关的内容，虽然主人他不怎么喜欢用java做后台"]
+        },
+        {
+            "selector": "#ahtmlcss",
+            "text": ["点这里可以看到html和css的相关内容，嗯嗯，切图仔专区"]
+        },
+        {
+            "selector": "#areact",
+            "text": ["哈哈，本站就是基于react搭建的，点这里可以看到react相关内容"]
+        },
+        {
+            "selector": "#avue",
+            "text": ["vue最近火的不行，点这里可以看vue哦"]
+        },
+        {
+            "selector": "#aangular",
+            "text": ["大轮子，虽然主人他学的很吃力，但是还是上了，不要指望这里有很多angular文章"]
+        },
+        {
+            "selector": "#acpp",
+            "text": ["c语言和c++也是很重要的，毕竟以前玩嵌入式经常用到"]
+        },
+        {
+            "selector": "#ahardware",
+            "text": ["本人业余时间喜欢玩硬件，点这里可以看到各种单片机、开发板、zigbee节点、微型电脑等等"]
+        },
+        {
+            "selector": "#reg",
+            "text": ["来吧，注册吧，毕国康他一个人自己在这里玩精分已经很惨了"]
+        },
+        {
+            "selector": "#aother",
+            "text": ["这里是非技术区，给本人吹比用的"]
+        },
+        {
+            "selector": "#csubmit",
+            "text": ["要[提交]^(Commit)了吗，首次评论需要审核，请耐心等待~"]
+        },
+        {
+            "selector": ".waifu #live2d",
+            "text": ["干嘛呢你，快把手拿开","一看就知道你是个hentai","你...手伸过来想干嘛？？？","你要是敢摸我我就报警"]
+        },
+        {
+            "selector": "#wirtemessage",
+            "text": ["点击这里可以写留言哦！！！"]
+        },
+        {
+            "selector": "#logout",
+            "text": ["你要走了么？？？"]
+        },
+        {
+            "selector": "#publish",
+            "text": ["确定要发送了么？？要不要检查一下？？"]
+        },
+        {
+            "selector": "#pay",
+            "text": ["你可以选择微信支付，也可以选择支付宝，暂时不支持花呗支付哦"]
+        },
+        {
+            "selector": "#touxiang",
+            "text": ["这忧郁的眼神，这帅气的脸庞，不管在什么地方就好像漆黑中的萤火虫一样，那样的鲜明，那样的出众"]
+        }
+
+    ],
+    "click": [
+        {
+            "selector": ".waifu #live2d",
+            "text": ["不准摸，畜生", "雅蔑蝶", "再摸的话我可要报警了！", "110吗，这里有个变态一直在摸我","救命，这里有个变态！"]
+        },
+        {
+            "selector": "#fui-search",
+            "text": ["搜索功能还没做出来呢，正为这件事情头痛呢，大佬有什么建议可以在留言板提"]
+        },
+        {
+            "selector": "#fui-search-btn",
+            "text": ["都说还没做出来了，还按！！！"]
+        },
+        {
+            "selector": "#fui-messageborad",
+            "text": ["留言板里面的老哥个个都是人才，说话又好听，超喜欢在里面的"]
+        },
+        {
+            "selector": "#fui-article",
+            "text": ["欢迎来到知识的殿堂"]
+        },
+        {
+            "selector": "#nonono",
+            "text": ["1分钱也不给我，真不要脸还在笑"]
+        },
+        {
+            "selector": "#fui-backstage",
+            "text": ["欢迎回来，主人，等等你不是主人，你来后台干嘛，再不走我要报警了"]
+        },
+        {
+            "selector": "#reg",
+            "text": ["哇哇，你居然点了，快注册！！！"]
+        },
+        {
+            "selector": ".artt",
+            "text": ["很好，你现在正在阅读 <span style=\"color:#0099cc;\">{text}</span> "]
+        },
+        {
+            "selector": "#wirtemessage",
+            "text": ["大佬慢慢写，给我提提建议"]
+        },
+        {
+            "selector": "#logout",
+            "text": ["好走不送"]
+        },
+        {
+            "selector": "#publish",
+            "text": ["weeeeeee!留言成功！！！！"]
+        },
+        {
+            "selector": "#touxiang",
+            "text": ["我去，左下角有只妹子你不摸去摸一只草泥马？？？"]
+        },
+        {
+            "selector": "#talk",
+            "text": ["主人为我加了聊天ai,和我聊天吧！！！"]
+        }
+    ],"seasons": [
+        {
+            "date": "01/01",
+            "text": "<span style=\"color:#0099cc;\">元旦</span>了呢，新的一年又开始了，今年是{year}年~"
+        },
+        {
+            "date": "02/14",
+            "text": "又是一年<span style=\"color:#0099cc;\">情人节</span>，{year}年找到对象了嘛~"
+        },
+        {
+            "date": "03/08",
+            "text": "今天是<span style=\"color:#0099cc;\">妇女节</span>！"
+        },
+        {
+            "date": "03/12",
+            "text": "今天是<span style=\"color:#0099cc;\">植树节</span>，要保护环境呀"
+        },
+        {
+            "date": "04/01",
+            "text": "悄悄告诉你一个秘密~<span style=\"background-color:#34495e;\">今天是愚人节，不要被骗了哦~</span>"
+        },
+        {
+            "date": "05/01",
+            "text": "今天是<span style=\"color:#0099cc;\">五一劳动节</span>，计划好假期去哪里了吗~"
+        },
+        {
+            "date": "06/01",
+            "text": "<span style=\"color:#0099cc;\">儿童节</span>了呢，快活的时光总是短暂，要是永远长不大该多好啊…"
+        },
+        {
+            "date": "09/03",
+            "text": "<span style=\"color:#0099cc;\">中国人民抗日战争胜利纪念日</span>，铭记历史、缅怀先烈、珍爱和平、开创未来。"
+        },
+        {
+            "date": "09/10",
+            "text": "<span style=\"color:#0099cc;\">教师节</span>，在学校要给老师问声好呀~"
+        },
+        {
+            "date": "10/01",
+            "text": "<span style=\"color:#0099cc;\">国庆节</span>，新中国已经成立69年了呢"
+        },
+        {
+            "date": "11/05-11/12",
+            "text": "今年的<span style=\"color:#0099cc;\">双十一</span>是和谁一起过的呢~"
+        },
+        {
+            "date": "12/20-12/31",
+            "text": "这几天是<span style=\"color:#0099cc;\">圣诞节</span>，主人肯定又去剁手买买买了~"
+        }
+    ]
+}
