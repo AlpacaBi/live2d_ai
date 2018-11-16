@@ -23,13 +23,9 @@ http://gayhub.fun (ps.本人不是基佬)
 <form id="uploadForm">
     <input type="file" name="file"></form>
 </form>
-
-
 <div class="waifu">
     <div class="waifu-tips"></div>
-
     <canvas id="live2d" width="320" height="280" class="live2d"></canvas>
-
 </div>
 
 ```
