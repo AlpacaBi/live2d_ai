@@ -17,19 +17,28 @@ http://gayhub.fun (ps.本人不是基佬)
 ### 安装过程
 1. 直接把本项目下载下来
 2. 下载完成后，复制`assets`文件夹，到你的项目跟目录下
-3. 之后嵌入如下代码在你的网页里，即可完成
+3. 之后嵌入如下代码在你的index.html的body标签里面，放在最后body标签最后
 ```html
+
 <input placeholder="和她聊天" id="talk"/>
 <form id="uploadForm">
-    <input type="file" name="file"></form>
+    <input type="file" name="file"/>
 </form>
 <div class="waifu">
     <div class="waifu-tips"></div>
     <canvas id="live2d" width="320" height="280" class="live2d"></canvas>
 </div>
-
+<script src="assets/waifu-tips.js"></script>
+<script src="assets/live2d.js"></script>
+<script type="text/javascript">initModel("assets/")</script>
 ```
+4. 当然了也别忘记在你的index.html的head标签里，加入以下代码
 
+```html
+<link rel="manifest" href="%PUBLIC_URL%/manifest.json">
+    <link rel="stylesheet" type="text/css" href="assets/waifu.css"/>
+    <script src="https://cdn.bootcss.com/jquery/3.2.1/jquery.min.js"></script>
+```
 
 ### 自定义交互功能
 她可以监听到你的鼠标移动到或者点击某个元素，并给出相应的反应，实现这个功能你可以去`assets/waifu-tips.json`文件里配置，很简单的你一看demo源码就秒懂了
